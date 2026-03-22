@@ -33,7 +33,7 @@ This was due to Hyper-V trying to boot from a Windows template by default. I did
 Ubuntu is Now Booting
 <img width="2181" height="1380" alt="image" src="https://github.com/user-attachments/assets/d52e6ea5-b0ec-41c1-a697-8e36a3fcfcf0" />
 
-Ubuntu Intsalled and Running Terminal
+Ubuntu Installed and Running Terminal
 <img width="3060" height="1767" alt="image" src="https://github.com/user-attachments/assets/863e1ca6-e094-4ade-a5a5-00031a855e48" />
 
 
