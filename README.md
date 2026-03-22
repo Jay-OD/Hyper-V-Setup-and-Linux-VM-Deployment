@@ -50,7 +50,7 @@ Using the Ubuntu terminal, I practised essential Linux commands such as:
 
 While it wasnt required, I was trying to follow the lessons with a hands on approach in a real Linux enviroment rather than their portal.
 
-Basic Bash Commands I was Practising
+Basic Bash Commands I Was Practising
 <img width="2205" height="1536" alt="image" src="https://github.com/user-attachments/assets/0750a644-bea3-47b6-9877-7801019d8221" />
 
 
